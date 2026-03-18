@@ -11,8 +11,8 @@ Source: https://www.kaggle.com/datasets/ankitverma2010/ecommerce-customer-churn-
 AWS S3 · AWS Glue · PySpark · AWS Athena · CloudWatch
 
 ## Progress
-- Day 1 — S3 setup + raw data upload
-- Day 2 — Glue crawler + Data Catalog
-- Day 3 — PySpark ETL job
-- Day 4 — Athena SQL analytics
-- Day 5 — Monitoring + documentation
+- [X] Day 1 — S3 setup + raw data upload
+- [ ] Day 2 — Glue crawler + Data Catalog
+- [ ] Day 3 — PySpark ETL job
+- [ ] Day 4 — Athena SQL analytics
+- [ ] Day 5 — Monitoring + documentation
