@@ -12,7 +12,7 @@ AWS S3 · AWS Glue · PySpark · AWS Athena · CloudWatch
 
 ## Progress
 - [X] Day 1 — S3 setup + raw data upload
-- [ ] Day 2 — Glue crawler + Data Catalog
-- [ ] Day 3 — PySpark ETL job
+- [X] Day 2 — Glue crawler + Data Catalog
+- [X] Day 3 — PySpark ETL job
 - [ ] Day 4 — Athena SQL analytics
 - [ ] Day 5 — Monitoring + documentation
